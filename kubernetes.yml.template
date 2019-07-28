@@ -38,6 +38,6 @@ spec:
   - port: 30000
     targetPort: 8080
   selector:
-    app: twitter-feed
+    app: twitter-feed-oke
   type: ClusterIP
 ---
